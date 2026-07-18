@@ -1,7 +1,7 @@
 ## Olá, eu sou Felipe Kevin 👋
 
 - 📖 Cursando Sistema de Informação
-- 📕 Terceiro período
+- 📕 Quinto período
 - 💻 Estudando Front-End
 - 😄 Pronome: ele/dele
 
