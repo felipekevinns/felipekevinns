@@ -2,7 +2,7 @@
 
 - 📖 Cursando Sistema de Informação
 - 📕 Quinto período
-- 💻 Estudando Front-End
+- 💻 Estudando Data Base
 - 😄 Pronome: ele/dele
 
 ##
