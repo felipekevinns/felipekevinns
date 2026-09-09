@@ -30,4 +30,4 @@
   <a href="https://www.linkedin.com/in/felipe-kevin-0014b0329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/felipekevinns/felipekevinns/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/felipekevinns/felipekevinns/output/github-contribution-grid-snake.svg)
